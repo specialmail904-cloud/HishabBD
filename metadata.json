@@ -1,0 +1,6 @@
+{
+  "name": "HishabBD - F-Commerce Receipt & Invoice Maker",
+  "description": "Instant professional receipt and invoice generator for Bangladeshi Facebook & online sellers with COD calculations, bKash/Nagad advance tracking, and 1-click Messenger image export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
